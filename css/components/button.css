@@ -1,0 +1,26 @@
+.btn-white {
+	background-color: white;
+	transition: background-color 0.3s ease ;
+	padding: 10px 20px;
+	border-radius: 12px;
+	color: black;
+}
+
+.btn-white:hover {
+	background-color: rgba(54, 48, 53,0.8);
+	color: white ;
+}
+
+.btn-pink {
+	margin:0 auto;
+	background-color: rgba(242, 15, 83,0.8);
+	transition: background-color 0.3s ease ;
+	padding: 10px 20px;
+	border-radius: 12px;
+	color: white;
+}
+
+.btn-pink:hover {
+	background-color: rgba(54, 48, 53,0.8);
+	color: white ;
+}
